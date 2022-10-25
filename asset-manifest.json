@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/munch/static/css/main.0d90b030.css",
+    "main.js": "/munch/static/js/main.b5383787.js",
+    "static/js/117.8448b660.chunk.js": "/munch/static/js/117.8448b660.chunk.js",
+    "static/media/3.jpg": "/munch/static/media/3.019d72f800376932dd16.jpg",
+    "static/media/2.jpg": "/munch/static/media/2.0e449a9c5ba4903f2ff0.jpg",
+    "static/media/1.jpg": "/munch/static/media/1.c636bd454de04a69dc0f.jpg",
+    "static/media/5.jpg": "/munch/static/media/5.5c6f43be2505b8a6d63b.jpg",
+    "static/media/4.jpg": "/munch/static/media/4.b77c3afbc180766e2f93.jpg",
+    "static/media/AmaticSC-Bold.ttf": "/munch/static/media/AmaticSC-Bold.f12c1d887cda2131ac83.ttf",
+    "static/media/6.jpg": "/munch/static/media/6.482376d829e7d8368769.jpg",
+    "static/media/logoBorder.jpg": "/munch/static/media/logoBorder.d7b5277b05337493ed5a.jpg",
+    "index.html": "/munch/index.html",
+    "main.0d90b030.css.map": "/munch/static/css/main.0d90b030.css.map",
+    "main.b5383787.js.map": "/munch/static/js/main.b5383787.js.map",
+    "117.8448b660.chunk.js.map": "/munch/static/js/117.8448b660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d90b030.css",
+    "static/js/main.b5383787.js"
+  ]
+}
