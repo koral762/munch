@@ -1,0 +1,72 @@
+.footer {
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+
+.icon-container {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 0px;
+  width: 100%;
+
+  color: goldenrod;
+
+  height: 4rem;
+
+  .a-icon {
+    color: #41403eb7;
+
+  }
+
+  .i-whatsapp {
+    color: #41403eb7;
+
+    &:hover {
+      color: rgba(34, 146, 19, 0.466);
+    }
+
+  }
+
+  .i-instagram {
+
+    color: #41403eb7;
+
+    &:hover {
+      color: rgba(202, 5, 5, 0.589);
+    }
+
+  }
+
+  .i-facebook {
+
+    color: #41403eb7;
+
+    &:hover {
+      color: rgba(0, 26, 255, 0.534);
+    }
+
+  }
+
+}
+
+li {
+  font-size: 20px;
+  margin: 10px;
+}
+
+li:nth-child(4) {
+  direction: rtl;
+}
+
+
+
+#imgCradit {
+  align-self: center;
+  font-size:10px;
+}

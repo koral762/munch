@@ -1,0 +1,15 @@
+[
+    {
+        "name": "קלאסי",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foodsdictionary.co.il%2FRecipes%2F4246&psig=AOvVaw0Bu6CgyL8wI9qTPovdO8k9&ust=1666430809897000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCCj9aA8foCFQAAAAAdAAAAABAJ",
+        "description": "תערובת הגבינות המיוחדת והאיכותית שלנו עטופה קדאיף אסלי במי סוכר ומעל פיסטוק בלאדי",
+        "price": "70/40"
+    },
+    {
+        "name": "לוטוס",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foodsdictionary.co.il%2FRecipes%2F4246&psig=AOvVaw0Bu6CgyL8wI9qTPovdO8k9&ust=1666430809897000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCCj9aA8foCFQAAAAAdAAAAABAJ",
+        "description": " תערובת הגבינות המיוחדת והאיכותית שלנו עטופה בקדאיף אסלי ומעל שברי עוגיות לוטוס",
+        "price": "85/50"
+    },
+    {}
+]

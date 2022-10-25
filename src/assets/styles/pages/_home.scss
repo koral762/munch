@@ -1,0 +1,76 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    font-family: AmaticSC-Bold;
+
+
+    .logo {
+        align-self: start;
+    }
+
+    .imgsContainer{
+
+        width: 100%;
+        height: 20rem;
+    }
+
+}
+
+.headline {
+    color: rgb(20, 14, 15);
+    font-family: AmaticSC-Bold;
+    font-size: 3rem;
+    text-align: center;
+    font-size: 55px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+
+.order-now {
+
+    display: inline-block;
+
+    font-family: AmaticSC-Bold;
+    font-size: 2rem;
+
+    border: solid 0.1rem goldenrod;
+    padding: 0.8rem;
+
+
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+}
+
+
+
+
+
+main{
+    //-----------------------------------------
+    // background-image: url(../../imgs/background/2749701.jpg);
+    //-----------------------------------------
+    // background-image: url(../../imgs/background/abstract-space-wallpaper-background-dark-smoke-design.jpg);
+    //-----------------------------------------
+    // background-image: url(../../imgs/background/assortment-delicious-healthy-snacks.jpg);
+    //-----------------------------------------
+    // background-image: url(../../imgs/background/golden-cutlery-with-textile-plate-dark-background-top-view.jpg);
+    // background-position-x: 594px;
+    //-----------------------------------------
+    // background-image: url(../../imgs/background/natural-pistachio.jpg);
+    //------------------------------------------------------------------
+    // background-image: url(../../imgs/background/SL_070820_32300_24.jpg);
+    
+    background-position: center;
+    background-size: cover;
+}
+
+.info{
+    text-align: center;
+    font-size: 30px;
+}

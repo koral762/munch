@@ -1,0 +1,87 @@
+.navbar {
+  display: flex;
+  justify-content: end;
+  color: blue;
+  width: 100%;
+  font-family: AmaticSC-Bold;
+  font-size: 2.5rem;
+
+
+
+
+
+  .menu-btn-mobile {
+    align-self: flex-end;
+    background-color: rgba(255, 255, 255, 0);
+    color: #000000c4;
+    border: none;
+
+    .fa-align-justify:before,
+    .fa-close:before {
+      font-size: 2rem;
+    }
+
+    .fa-close:before {
+      font-size: 2rem;
+      color: #0b0b0b;
+      background-color: #b8860b57;
+      border-radius: 5px;
+      padding: 0.1rem;
+    }
+  }
+
+  .right-nav {
+    padding: 0.8rem;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    position: absolute;
+    // transition: 0.5s;
+    font-weight: bold;
+    width: 0;
+
+
+    a {
+      display: inline-block;
+      margin: 10px;
+
+      &:hover {
+        color: rgb(31, 76, 172);
+
+      }
+    }
+
+  }
+
+  .open {
+    flex-direction: column;
+    justify-content: start;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    transition: 0.7s;
+    background-color: rgba(63, 56, 56, 0.932);
+
+
+    a {
+      text-decoration: none;
+      font-size: 2rem;
+      width: 100%;
+      text-align: center;
+      color: aliceblue;
+
+
+      &:hover {
+        padding: 1px;
+        border-bottom: solid 0.2px black;
+      }
+    }
+  }
+
+
+
+
+
+}
