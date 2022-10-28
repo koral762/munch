@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/munch/static/css/main.b545c0ec.css",
+    "main.css": "/munch/static/css/main.6cef8397.css",
     "main.js": "/munch/static/js/main.d5bfbf71.js",
     "static/js/117.8448b660.chunk.js": "/munch/static/js/117.8448b660.chunk.js",
     "static/media/3.jpg": "/munch/static/media/3.019d72f800376932dd16.jpg",
@@ -12,12 +12,12 @@
     "static/media/6.jpg": "/munch/static/media/6.482376d829e7d8368769.jpg",
     "static/media/logoBorder.jpg": "/munch/static/media/logoBorder.d7b5277b05337493ed5a.jpg",
     "index.html": "/munch/index.html",
-    "main.b545c0ec.css.map": "/munch/static/css/main.b545c0ec.css.map",
+    "main.6cef8397.css.map": "/munch/static/css/main.6cef8397.css.map",
     "main.d5bfbf71.js.map": "/munch/static/js/main.d5bfbf71.js.map",
     "117.8448b660.chunk.js.map": "/munch/static/js/117.8448b660.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b545c0ec.css",
+    "static/css/main.6cef8397.css",
     "static/js/main.d5bfbf71.js"
   ]
 }
