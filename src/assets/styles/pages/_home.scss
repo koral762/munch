@@ -33,12 +33,14 @@
 .order-now {
 
     display: inline-block;
+    color:black;
 
     font-family: AmaticSC-Bold;
     font-size: 2rem;
 
-    border: solid 0.1rem goldenrod;
+    border: solid 0.3rem goldenrod;
     padding: 0.8rem;
+    box-shadow: 3px 2px 5px 3px #daa5209c;
 
 
 }

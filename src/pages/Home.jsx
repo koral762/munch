@@ -28,11 +28,11 @@ export const Home = () => {
                 </Carousel>
 
             </div>
-            <a className="a-icon i-whatsapp" href="https://wa.me/972507624411" target="_blank" rel="noreferrer noopener"><p className="order-now">הזמנת כנאפה</p></a>
+            <a className="a-icon i-whatsapp" href="https://wa.me/972545422256" target="_blank" rel="noreferrer noopener"><p className="order-now">לחצו להזמנה</p></a>
             <div className="info">
             <p>:שעות פעילות</p>
-            <p>17:00-23:00<span>'ב'-ה</span></p>
-            <p>23:00 מצאת שבת ועד<span>מוצ"ש</span></p>
+            <p>17:00-23:00 <span>:'ב'-ה</span></p>
+            <p><span>23:00</span> : מוצ"ש<span> מצאת שבת ועד </span></p>
             </div>
             
             <Footer />

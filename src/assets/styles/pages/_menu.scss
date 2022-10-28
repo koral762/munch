@@ -1,0 +1,55 @@
+.menu-container {
+    margin: 1.3rem;
+    margin-top: 4rem;
+
+    .menu-title {
+        font-family: AmaticSC-Bold;
+        text-align: center;
+        font-size: 40px;
+        margin: 25px;
+    }
+}
+
+.preview {
+    display: flex;
+    border-bottom: 1px solid #00000047;
+    margin-bottom: 32px;
+    padding-bottom: 7px;
+
+
+    .preview-right {
+        align-self: center;
+    }
+
+    .preview-left {
+        font-size: small;
+        padding-left: 10px;
+    }
+
+    p {
+        text-align: right;
+    }
+
+    .knafa-name {
+        margin: unset;
+        font-weight: bold;
+    }
+
+    .knafa-description {
+        margin: unset;
+    }
+
+    .price {
+        display: flex;
+        justify-content: right;
+        font-weight: bold;
+
+        .knafa-price-large {
+            margin-left: 5px;
+        }
+    }
+
+    img {
+        border-radius: 14px;
+    }
+}

@@ -14,7 +14,7 @@ export const Navbar = () => {
              <button className="menu-btn-mobile" onClick={() => toggleMenu(!menuIsOpen)}><i className={menuIsOpen ? "fa fa-close" : "fa fa-align-justify"} style={{ fontSize: "20px" }}></i></button>
              {menuIsOpen && <div>
              <Link to='/'><span>ראשי</span></Link>
-             <Link to='/'><span>תפריט</span></Link>
+             <Link to='/menu'><span>תפריט</span></Link>
              <Link to='/about'><span>מי אנחנו</span></Link>
              <Link to='/'><span>שאלות נפוצות</span></Link>
              <Link to='/'><span>צרו קשר</span></Link>

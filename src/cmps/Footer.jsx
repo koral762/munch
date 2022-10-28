@@ -5,11 +5,11 @@ export const Footer = () => {
     return (
         <div className="footer">
             <div className="icon-container">
-                <a className="a-icon i-whatsapp" href="https://wa.me/972524499904" target="_blank" rel="noreferrer noopener">
+                <a className="a-icon i-whatsapp" href="https://wa.me/972545422256" target="_blank" rel="noreferrer noopener">
                     <i className="fa fa-whatsapp btn" style={{ fontSize: "xx-large" }}></i>
                 </a>
                 <li></li>
-                <a className="a-icon i-instagram" href="https://instagram.com/shato_kinneret?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer noopener" >
+                <a className="a-icon i-instagram" href="https://www.instagram.com/munch_knafa" target="_blank" rel="noreferrer noopener" >
                     <i className="fa fa-instagram" style={{ fontSize: "xx-large" }}></i>
                 </a>
                 <li></li>
