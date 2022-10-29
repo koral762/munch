@@ -1,4 +1,4 @@
-- # Take a look at my Business Landing Page: https://koral762.github.io/munch/#/
+- # Take a look at my Mobile Business Landing Page: https://koral762.github.io/munch/#/
 
 - ## React, JavaScript, SCSS, HTML5
 ![image](https://user-images.githubusercontent.com/81360728/198851581-cdea32bf-6bbf-476e-8158-0cd661667f28.png)
