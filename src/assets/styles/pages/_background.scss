@@ -1,1 +1,23 @@
+.background {
+    height: 100%;
+    position: absolute;
+    // background-color: blueviolet;
+    z-index: -10;
+    width: 100%;
 
+     //-----------------------------------------
+    // background-image: url(../../imgs/background/2749701.jpg);
+    //-----------------------------------------
+    // background-image: url(../../imgs/background/abstract-space-wallpaper-background-dark-smoke-design.jpg);
+    //-----------------------------------------
+    // background-image: url(../../imgs/background/assortment-delicious-healthy-snacks.jpg);
+    //-----------------------------------------
+    //-----------------------------------------
+    //------------------------------------------------------------------
+    // background-image: url(../../imgs/background/SL_070820_32300_24.jpg);
+    
+    background-position: center;
+    opacity: 0.88;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -27,6 +27,9 @@
     font-size: 55px;
     margin-top: 20px;
     margin-bottom: 35px;
+    text-shadow: 0 0 black;
+    background-color: #f5f5dc9e;
+    width: 100%;
 }
 
 
@@ -56,22 +59,7 @@ a:-webkit-any-link {
 
 
 main{
-    //-----------------------------------------
-    // background-image: url(../../imgs/background/2749701.jpg);
-    //-----------------------------------------
-    // background-image: url(../../imgs/background/abstract-space-wallpaper-background-dark-smoke-design.jpg);
-    //-----------------------------------------
-    // background-image: url(../../imgs/background/assortment-delicious-healthy-snacks.jpg);
-    //-----------------------------------------
-    // background-image: url(../../imgs/background/golden-cutlery-with-textile-plate-dark-background-top-view.jpg);
-    // background-position-x: 594px;
-    //-----------------------------------------
-    // background-image: url(../../imgs/background/natural-pistachio.jpg);
-    //------------------------------------------------------------------
-    // background-image: url(../../imgs/background/SL_070820_32300_24.jpg);
-    
-    background-position: center;
-    background-size: cover;
+   
 }
 
 .info{

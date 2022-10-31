@@ -12,6 +12,7 @@ function App() {
   return (
     <Router>
       <div className="App">
+        <div className="background"></div>
         <main>
           <Navbar />
           {routes.map(route => <Route key={route.path} exact component={route.component} path={route.path} />)}
