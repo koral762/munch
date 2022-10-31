@@ -1,3 +1,5 @@
+import {Footer} from '../cmps/Footer';
+
 export const About = () => {
 
     return (
@@ -15,6 +17,8 @@ export const About = () => {
                 ניתן לשדרג עם גלידת שמנת רכה ומרעננת תוצרת בית
                 וקרם ברולה מטריף עם שכבת סוכר קראנ'צ כמו שאנחנו אוהבים
             </p>
+
+            <Footer/>
         </div>
     )
 
