@@ -1,14 +1,8 @@
 import React from 'react';
 
-export const MenuPreview = () => {
+export const MenuPreview = (props) => {
 
-    var obj = {
-        name: "קלאסי",
-        img: "https://media.reshet.tv/image/upload/t_image_article_800/v1602566509/kna1cz_kbpzsl.jpg",
-        description: "תערובת הגבינות המיוחדת והאיכותית שלנו עטופה קדאיף אסלי במי סוכר ומעל פיסטוק בלאדי",
-        priceSmall: "40 קטן",
-        priceLarge: "גדול 70"
-    }
+    const obj = props.obj;
 
     return (
 

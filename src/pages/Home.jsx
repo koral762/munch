@@ -1,4 +1,3 @@
-import myLogo from '../assets/imgs/logoBorder.jpg';
 import img1 from '../assets/imgs/1.jpg';
 import img2 from '../assets/imgs/2.jpg';
 import img3 from '../assets/imgs/3.jpg';
@@ -13,7 +12,6 @@ export const Home = () => {
 
     return (
         <div className="home-container">
-            <img src={myLogo} className="logo" width="100px" height="100px"></img>
             <p className="headline"><span>?!</span>מה במאנץ' שלך </p>
             <div className="imgsContainer">
 
@@ -28,10 +26,10 @@ export const Home = () => {
                 </Carousel>
 
             </div>
-            <a className="a-icon i-whatsapp" href="https://wa.me/972545422256" target="_blank" rel="noreferrer noopener"><p className="order-now">לחצו להזמנה</p></a>
+            <a className="a-icon i-whatsapp" href="https://wa.me/972552643155" target="_blank" rel="noreferrer noopener"><p className="order-now">לחצו להזמנה</p></a>
             <div className="info">
-            <p>:שעות פעילות</p>
-            <p>17:00-23:00 <span>:'ב'-ה</span></p>
+            <p className="hours-title">:שעות פעילות</p>
+            <p>17:00-23:00 <span>:'א'-ה</span></p>
             <p><span>23:00</span> : מוצ"ש<span> מצאת שבת ועד </span></p>
             </div>
             

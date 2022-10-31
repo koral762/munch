@@ -1,6 +1,13 @@
+// basic
+@import './fonts';
+@import './pages/background';
+
+
+// cmps
 @import './comps/navbar';
 @import './comps/footer';
+
+// pages
 @import './pages/home';
 @import './pages/menu';
-@import './pages/background';
-@import './fonts';
+@import './pages/about';

@@ -41,6 +41,8 @@
     border: solid 0.3rem goldenrod;
     padding: 0.8rem;
     box-shadow: 3px 2px 5px 3px #daa5209c;
+    border-radius: 6px;
+
 
 
 }
@@ -73,6 +75,11 @@ main{
 }
 
 .info{
+
+    .hours-title{
+        text-decoration: underline 1px;
+    }
+
     text-align: center;
     font-size: 30px;
 }

@@ -1,16 +1,15 @@
 import { MenuPreview } from "../cmps/MenuPreview"
 
+
 export const Menu = () => {
+
+    const obj = require('../data/items.json');
 
     return (
         <div className="menu-container">
             <p className="menu-title">הטעמים המיוחדים שלנו</p>
-            <MenuPreview />
-            <MenuPreview />
-            <MenuPreview />
-            <MenuPreview />
-            <MenuPreview />
-            <MenuPreview />
+            {obj.map((knafa) => <MenuPreview obj={knafa} />)}
+
         </div>
     )
 }
