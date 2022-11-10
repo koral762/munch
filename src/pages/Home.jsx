@@ -16,7 +16,7 @@ export const Home = () => {
             <div className="imgsContainer">
 
 
-                <Carousel title="Carousel">
+                <Carousel autoPlay={true}	 title="Carousel">
                     <Item img={img1} style={{backgroundPositionY:'-120px'}} />
                     <Item img={img4} />
                     <Item img={img6} style={{backgroundSize: 'contain'}} />

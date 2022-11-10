@@ -5,7 +5,6 @@
   width: 100%;
   font-family: AmaticSC-Bold;
   font-size: 2.5rem;
-  
 
   .menu-btn-mobile {
     background-color: rgba(255, 255, 255, 0);
@@ -41,17 +40,14 @@
     font-weight: bold;
     width: 0;
 
-
     a {
       display: inline-block;
       margin: 10px;
 
       &:hover {
         color: rgb(31, 76, 172);
-
       }
     }
-
   }
 
   .open {
@@ -63,8 +59,7 @@
     width: 50%;
     height: 100%;
     transition: 0.7s;
-    background-color: rgba(63, 56, 56, 0.932);
-
+    background-color: rgba(0, 0, 0, 0.932);
 
     a {
       text-decoration: none;
@@ -73,16 +68,10 @@
       text-align: center;
       color: aliceblue;
 
-
       &:hover {
         padding: 1px;
         border-bottom: solid 0.2px black;
       }
     }
   }
-
-
-
-
-
 }

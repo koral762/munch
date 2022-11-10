@@ -13,7 +13,7 @@ export const Navbar = () => {
         <div className="navbar" style={{ color: 'blue' }}>
 
             <img src={myLogo} className="logo" width="100px" height="100px"></img>
-            <button className="menu-btn-mobile" onClick={() => toggleMenu(!menuIsOpen)}><i className={menuIsOpen ? "fa fa-close" : "fa fa-align-justify"} style={{ fontSize: "20px" }}></i></button>
+            <button className="menu-btn-mobile" onClick={() => toggleMenu(!menuIsOpen)}><i className={menuIsOpen ? "fa fa-close" : "fa fa-align-justify"} style={{ fontSize: "20px", color: 'rgb(218 165 32 / 73%' }}></i></button>
 
 
             <div id="menu" onClick={() => toggleMenu(!menuIsOpen)} className={menuIsOpen ? "right-nav open" : "right-nav"}>

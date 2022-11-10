@@ -1,12 +1,11 @@
 .background {
-    height: 100%;
-    position: absolute;
+    position: fixed;
     // background-color: blueviolet;
     z-index: -10;
     width: 100%;
 
      //-----------------------------------------
-    // background-image: url(../../imgs/background/2749701.jpg);
+    background-image: url(../../imgs/background/2749701.jpg);
     //-----------------------------------------
     // background-image: url(../../imgs/background/abstract-space-wallpaper-background-dark-smoke-design.jpg);
     //-----------------------------------------
@@ -20,4 +19,6 @@
     opacity: 0.88;
     background-size: cover;
     background-repeat: no-repeat;
+    height: 140%;
+
 }
