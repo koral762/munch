@@ -1,12 +1,36 @@
 .menu-container {
+    background-color: #f0f8ffeb;
+    padding: 18px;
+    padding-top: 1px;
+    border-radius: 20px;
     margin: 1.3rem;
+
     
     .menu-title {
         font-family: AmaticSC-Bold;
         text-align: center;
         font-size: 40px;
         margin: 25px;
+        margin-bottom: -8px;
     }
+
+    .menu-postage {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .sale{
+        background-color: darkturquoise;
+        height: 11px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: red;
+        font-weight: bold;
+        width: 100%;
+        font-size: 27px;
+    
+    }    
 }
 
 .preview {

@@ -17,12 +17,12 @@ export const Home = () => {
 
 
                 <Carousel autoPlay={true}	 title="Carousel">
+                    <Item img={img5} />
+                    <Item img={img2} style={{backgroundPositionY:'-131px'}} />
                     <Item img={img1} style={{backgroundPositionY:'-120px'}} />
                     <Item img={img4} />
                     <Item img={img6} style={{backgroundSize: 'contain'}} />
                     <Item img={img3} />
-                    <Item img={img5} />
-                    <Item img={img2} style={{backgroundPositionY:'-131px'}} />
                 </Carousel>
 
             </div>
