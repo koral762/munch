@@ -15,7 +15,6 @@ export const Home = () => {
             <p className="headline"><span>?!</span>מה במאנץ' שלך </p>
             <div className="imgsContainer">
 
-
                 <Carousel autoPlay={true}	 title="Carousel">
                     <Item img={img5} />
                     <Item img={img2} style={{backgroundPositionY:'-131px'}} />
