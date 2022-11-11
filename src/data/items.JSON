@@ -1,6 +1,13 @@
 [
     {
         "name": "קלאסי",
+        "img": "https://i.ibb.co/F8Bfxrn/classic.jpg",
+        "description": "תערובת הגבינות המיוחדת והאיכותית שלנו עטופה קדאיף אסלי במי סוכר ומעל פיסטוק בלאדי",
+        "priceSmall": "45 זוגי",
+        "priceLarge": "משפחתי 65"
+    },
+    {
+        "name": "קלאסי",
         "img": "https://media.reshet.tv/image/upload/t_image_article_800/v1602566509/kna1cz_kbpzsl.jpg",
         "description": "תערובת הגבינות המיוחדת והאיכותית שלנו עטופה קדאיף אסלי במי סוכר ומעל פיסטוק בלאדי",
         "priceSmall": "45 זוגי",
@@ -8,28 +15,30 @@
     },
     {
         "name": "לוטוס",
-        "img": "https://media.reshet.tv/image/upload/t_image_article_800/v1602566509/kna1cz_kbpzsl.jpg",
+        "img": "https://i.ibb.co/thcdwVz/lotus.jpg",
         "description": "תערובת הגבינות המיוחדת והאיכותית שלנו עטופה קדאיף אסלי במי סוכר ומעל פיסטוק בלאדי",
         "priceSmall": "45 זוגי",
         "priceLarge": "משפחתי 65"
     },
     {
         "name": "חלווה נוטלה",
-        "img": "https://media.reshet.tv/image/upload/t_image_article_800/v1602566509/kna1cz_kbpzsl.jpg",
+        "img": "https://i.ibb.co/F0GC7nz/halvah.jpg",
         "description": "תערובת הגבינות המיוחדת והאיכותית שלנו עטופה קדאיף אסלי במי סוכר ומעל פיסטוק בלאדי",
         "priceSmall": "45 זוגי",
         "priceLarge": "משפחתי 65"
     },
     {
         "name": "בננות וריבת חלב",
-        "img": "https://media.reshet.tv/image/upload/t_image_article_800/v1602566509/kna1cz_kbpzsl.jpg",
+        "img": "https://i.ibb.co/KmYPyBJ/banana.jpg",
         "description": "תערובת הגבינות המיוחדת והאיכותית שלנו עטופה קדאיף אסלי במי סוכר ומעל פיסטוק בלאדי",
         "priceSmall": "45 זוגי",
         "priceLarge": "משפחתי 65"
     },
     {
+
+        
         "name": "בייגלה מלוח",
-        "img": "https://media.reshet.tv/image/upload/t_image_article_800/v1602566509/kna1cz_kbpzsl.jpg",
+        "img": "https://i.ibb.co/FwNp28N/bagel.jpg",
         "description": "תערובת הגבינות המיוחדת והאיכותית שלנו עטופה קדאיף אסלי במי סוכר ומעל פיסטוק בלאדי",
         "priceSmall": "45 זוגי",
         "priceLarge": "משפחתי 65"
@@ -42,3 +51,4 @@
         "priceLarge": ""
     }
 ]
+

@@ -17,8 +17,8 @@ export const MenuPreview = (props) => {
             <p className="knafa-description">{obj.description}</p>
 
             <div className="price">
-            <p className="knafa-price-small">₪{obj.priceSmall} / </p>
-            <p className="knafa-price-large">₪{obj.priceLarge} </p>
+            <p className="knafa-price-small">₪{obj.priceSmall}</p>
+            {obj.priceLarge && <p className="knafa-price-large">/ ₪{obj.priceLarge}</p>}
             </div>
 
             </div>
