@@ -11,7 +11,7 @@ export const KeepInTouch = () => {
 
                 <a className="" href="tel:972552643155">
                     <p className="p-keep">  055-2643155 חייגו
-                        <i style={{ fontSize: '28px' }} aria-hidden="true" className="fas fa-phone"></i>
+                        <i style={{ fontSize: '28px' }} aria-hidden="true" className="fa fa-phone"></i>
                     </p>
                 </a>
 

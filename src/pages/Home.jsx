@@ -29,7 +29,7 @@ export const Home = () => {
 
             <a className="call-to-order" href="tel:972552643155">
                 <p className="order-now">לחצו להזמנה
-                    <i style={{ marginLeft: '5px', fontSize: '28px' }} aria-hidden="true" className="fas fa-phone"></i>
+                    <i style={{ marginLeft: '5px', fontSize: '28px' }} aria-hidden="true" className="fa fa-phone"></i>
                 </p>
             </a>
 
