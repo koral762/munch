@@ -14,6 +14,8 @@ export const Navbar = () => {
 
             <img src={myLogo} className="logo" width="100px" height="100px"></img>
 
+            <p style={{ fontSize: '25px', alignSelf: 'center',margin:'0px',color: 'white',    width: '115px'}}>משלוחים בלבד!! רמת גן - גבעתיים</p>
+
             <button className="menu-btn-mobile" onClick={() => toggleMenu(!menuIsOpen)}><i className={menuIsOpen ? "fa fa-close" : "fa fa-align-justify"} style={{ fontSize: "20px", color: 'rgb(218 165 32 / 73%' }}></i></button>
 
 
@@ -22,8 +24,7 @@ export const Navbar = () => {
                     <Link to='/'><span>ראשי</span></Link>
                     <Link to='/menu'><span>תפריט</span></Link>
                     <Link to='/about'><span>מי אנחנו</span></Link>
-                    <Link to='/'><span>שאלות נפוצות</span></Link>
-                    <Link to='/'><span>צרו קשר</span></Link>
+                    <Link to='/keepInTouch'><span>צרו קשר</span></Link>
                 </div>}
             </div>
         </div>

@@ -31,7 +31,7 @@
 }
 
 .order-now {
-    width: 135px;
+    width: 145px;
     display: inline-block;
     color: black;
     font-family: AmaticSC-Bold;
@@ -42,6 +42,16 @@
     border-radius: 6px;
     background-color: aliceblue;
     text-align: center;
+    margin-bottom:15px;
+}
+
+
+.whatsapp-order{
+    margin-top: 0px;
+    color: #73ea73;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
 }
 
 a:-webkit-any-link {

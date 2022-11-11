@@ -12,26 +12,38 @@ export const Home = () => {
 
     return (
         <div className="home-container">
+
             <p className="headline"><span>?!</span>מה במאנץ' שלך </p>
             <div className="imgsContainer">
 
-                <Carousel autoPlay={true}	 title="Carousel">
+                <Carousel autoPlay={true} title="Carousel">
                     <Item img={img5} />
-                    <Item img={img2} style={{backgroundPositionY:'-131px'}} />
-                    <Item img={img1} style={{backgroundPositionY:'-120px'}} />
+                    <Item img={img2} style={{ backgroundPositionY: '-131px' }} />
+                    <Item img={img1} style={{ backgroundPositionY: '-120px' }} />
                     <Item img={img4} />
-                    <Item img={img6} style={{backgroundSize: 'contain'}} />
+                    <Item img={img6} style={{ backgroundSize: 'contain' }} />
                     <Item img={img3} />
                 </Carousel>
 
             </div>
-            <a className="a-icon i-whatsapp" href="https://wa.me/972552643155" target="_blank" rel="noreferrer noopener"><p className="order-now">לחצו להזמנה</p></a>
+
+            <a className="call-to-order" href="tel:972552643155">
+                <p className="order-now">לחצו להזמנה
+                    <i style={{ marginLeft: '5px', fontSize: '28px' }} aria-hidden="true" className="fas fa-phone"></i>
+                </p>
+            </a>
+
+            <a className="a-icon i-whatsapp" href="https://wa.me/972552643155" target="_blank" rel="noreferrer noopener"><p className="whatsapp-order">
+                <i className="fa fa-whatsapp btn" style={{ fontSize: "28px", marginRight:"10px" }}></i>
+                !!!אפשר גם בוואטסאפ
+                </p></a>
+
             <div className="info">
-            <p className="hours-title">:שעות פעילות</p>
-            <p>17:00-23:00 <span>:'א'-ה</span></p>
-            <p><span>23:00</span> : מוצ"ש<span> מצאת שבת ועד </span></p>
+                <p className="hours-title">:שעות פעילות</p>
+                <p>17:00-23:00 <span>:'א'-ה</span></p>
+                <p><span>23:00</span> : מוצ"ש<span> מצאת שבת ועד </span></p>
             </div>
-            
+
             <Footer />
         </div>
 

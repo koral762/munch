@@ -1,0 +1,38 @@
+.keep-container {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    font-family: AmaticSC-Bold;
+    background-color: #f0f8ffb8;
+    margin-top: 45px;
+
+    a {
+        color: black;
+
+        i {
+            margin-left: 20px;
+            color: rgb(204, 155, 19);
+        }
+    }
+
+    .p-keep {
+        margin: 10px;
+        margin-right: 20px;
+        font-size: 32px;
+    }
+}
+
+.keep-title {
+    text-align: center;
+    font-size: 28px;
+    width: 100%;
+}
+
+.keep-info {
+        width: 100%;
+        text-align: center;
+        font-size: 30px;
+        color: cornsilk;
+        margin-bottom: 80px;
+        margin-top: 50px;
+}
