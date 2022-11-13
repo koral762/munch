@@ -6,7 +6,7 @@ export const Footer = () => {
         <div className="footer">
             <div className="icon-container">
 
-                <a className="a-icon i-facebook" href="https://www.facebook.com/profile.php?id=100049172207456" target="_blank" rel="noreferrer noopener">
+                <a className="a-icon i-facebook" href="https://www.facebook.com/profile.php?id=100087373868637" target="_blank" rel="noreferrer noopener">
                     <i class="fa fa-facebook-square" style={{ fontSize: "xx-large" }} aria-hidden="true"></i>
                 </a>
                 <li></li>

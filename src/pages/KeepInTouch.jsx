@@ -21,7 +21,7 @@ export const KeepInTouch = () => {
                 </p></a>
 
 
-                <a className="" href="https://www.facebook.com/profile.php?id=100049172207456" target="_blank" rel="noreferrer noopener"><p className="p-keep">
+                <a className="" href="https://www.facebook.com/profile.php?id=100087373868637" target="_blank" rel="noreferrer noopener"><p className="p-keep">
 
                     עקבו אחרינו בפייסבוק
                     <i class="fa fa-facebook-square" style={{ fontSize: "xx-large" }} aria-hidden="true"></i>
