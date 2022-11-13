@@ -1,8 +1,10 @@
 - # Take a look at my Mobile Business Landing Page: https://koral762.github.io/munch/#/
 
 - ## React, JavaScript, SCSS, HTML5
-![image](https://user-images.githubusercontent.com/81360728/198851581-cdea32bf-6bbf-476e-8158-0cd661667f28.png)
+
+![image](https://user-images.githubusercontent.com/81360728/201522246-8828f65a-948e-4717-b5ce-1615c7eccee2.png)
+
 - ##
 
-![image](https://user-images.githubusercontent.com/81360728/198851583-7d153046-0dce-4234-a1a9-8b285941253e.png)
-![image](https://user-images.githubusercontent.com/81360728/198851588-86012f45-c103-4339-813b-2290a814fd43.png)
+![image](https://user-images.githubusercontent.com/81360728/201522253-77835bc4-a293-4037-875a-b3fa1266e3c9.png)
+![image](https://user-images.githubusercontent.com/81360728/201522259-af659d7e-3a7e-4ab7-90df-695152fc0622.png)
