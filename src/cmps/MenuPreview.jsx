@@ -22,6 +22,9 @@ export const MenuPreview = (props) => {
                     <p className="knafa-price-small">₪{obj.priceSmall}</p>
                     {obj.priceLarge && <p className="knafa-price-large">/ ₪{obj.priceLarge}</p>}
                 </div>
+                {obj.priceLarge && <div className="" >
+                    <p className="knafa-price-small" style={{ marginTop: '0px' }}>(קוטר 22 ס"מ) / (קוטר 30 ס"מ)</p>
+                </div>}
 
             </div>
 
