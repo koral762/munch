@@ -14,14 +14,13 @@ export const Navbar = () => {
 
             <img src={myLogo} className="logo" width="100px" height="100px"></img>
 
-            <p style={{ fontSize: '22px', alignSelf: 'center',textAlign: 'center', margin: '0px', color: 'white', width: '100%' }}>
-                <span style={{ fontSize:'25px', fontFamily: 'system-ui',color: 'rgb(255, 79, 79)'}}> !!!משלוחים בלבד  </span>
+            <p style={{ fontSize: '25px', alignSelf: 'center',textAlign: 'center', margin: '0px', color: 'white', width: '100%' }}>
                 <tr></tr>
                 <span>גבעתיים</span>
                 <tr></tr>
-                <span>גבול רמת גן-גבעתיים</span>
+                <span>רמת גן</span>
                 <tr></tr>
-                <span>גבול תל-אביב-גבעתיים </span>
+                <span>תל-אביב</span>
 
             </p>
 
