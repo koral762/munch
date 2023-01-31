@@ -14,7 +14,7 @@ export const Home = () => {
     return (
         <div className="home-container">
             <img src={myLogo} className="logo" width="100px" height="100px"></img>
-            <p className="headline"><span>?!</span>מה במאנץ' שלך </p>
+            <p className="headline"><span>?!</span>מה במאנץ' שלך 6 </p>
             <div className="imgsContainer">
 
 
