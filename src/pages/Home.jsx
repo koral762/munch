@@ -27,13 +27,13 @@ export const Home = () => {
 
             </div>
 
-            <a className="call-to-order" href="tel:972552643155">
+            <a className="call-to-order" href="tel:972545422256">
                 <p className="order-now">לחצו להזמנה
                     <i style={{ marginLeft: '5px', fontSize: '28px' }} aria-hidden="true" className="fa fa-phone"></i>
                 </p>
             </a>
 
-            <a className="a-icon i-whatsapp" href="https://wa.me/972552643155" target="_blank" rel="noreferrer noopener"><p className="whatsapp-order">
+            <a className="a-icon i-whatsapp" href="https://wa.me/972545422256" target="_blank" rel="noreferrer noopener"><p className="whatsapp-order">
                 <i className="fa fa-whatsapp btn" style={{ fontSize: "28px", marginRight:"10px" }}></i>
                 !!!אפשר גם בוואטסאפ
                 </p></a>

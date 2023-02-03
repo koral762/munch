@@ -9,13 +9,13 @@ export const KeepInTouch = () => {
                 <h1 className="keep-title" >זמינים עבורכם להזמנת משלוחים ולכל נושא אחר</h1>
 
 
-                <a className="" href="tel:972552643155">
+                <a className="" href="tel:972545422256">
                     <p className="p-keep">  055-2643155 חייגו
                         <i style={{ fontSize: '28px' }} aria-hidden="true" className="fa fa-phone"></i>
                     </p>
                 </a>
 
-                <a className="" href="https://wa.me/972552643155" target="_blank" rel="noreferrer noopener"><p className="p-keep">
+                <a className="" href="https://wa.me/972545422256" target="_blank" rel="noreferrer noopener"><p className="p-keep">
                     כתבו לנו בוואטסאפ
                     <i className="fa fa-whatsapp btn" style={{ fontSize: "30px"}}></i>
                 </p></a>
